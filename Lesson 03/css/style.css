@@ -1,0 +1,25 @@
+/* body{
+    background-color: ;
+} */
+h1{
+    color: red;
+}
+p{
+
+}
+
+.div__one{
+    background-color: burlywood;
+    margin-left: 218px;
+    margin-right: 50px;
+    
+    /* padding-top: 50px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 25px; */
+    padding: 50px;
+}
+.div__two{
+    background-color: cornflowerblue;
+}
+
